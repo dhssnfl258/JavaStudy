@@ -9,4 +9,4 @@ public class InnerClassMainMethod {
         innerClassMake.outMainMethod1();
         sampleInnerClass.inMethod1();
     }
-}
+} //innerclass
