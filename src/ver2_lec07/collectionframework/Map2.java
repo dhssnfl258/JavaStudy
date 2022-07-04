@@ -32,5 +32,6 @@ public class Map2 {
 
         int hc1 = testA1.hashCode();
         int hc2 = testA2.hashCode();
+        //추가 요소 존재
     }
 }
