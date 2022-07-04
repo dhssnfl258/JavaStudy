@@ -7,7 +7,7 @@ public class Map2 {
     public static void main(String[] args) {
         //Map
         //HashMap
-        //순서에 상관없이 들어간다.
+        //unordered.
         //Map Set 차이점은?
         //Hash Map이란?
 
