@@ -27,6 +27,7 @@ public class Map2 {
         lkMap.put("국가4", "중국");
         lkMap.put("국가5", "일본");
 
+        System.out.println(lkMap.toString());
         String testA1 = "a" ;
         String testA2 = "a" ;
 
