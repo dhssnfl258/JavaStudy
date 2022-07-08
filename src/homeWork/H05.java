@@ -42,6 +42,7 @@ public class H05 {
             }
             dayOfWeek++;
         }
+        System.out.println();
         System.out.println("-----------------------------");
 
 
